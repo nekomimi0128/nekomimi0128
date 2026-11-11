@@ -47,4 +47,4 @@
 
 ## 🏆 Trophy
 
-![trophy](https://github-profile-trophy.vercel.app/?username=nekomimi0128&theme=gruvbox)
+![trophy](https://github-profile-trophy-liard.vercel.app/?username=nekomimi0128&theme=gruvbox)
