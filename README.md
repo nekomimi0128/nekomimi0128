@@ -11,6 +11,18 @@
   </a>
 </p>
 
+<p align="left">
+  <a href="https://nekomimi0128.com">
+    <img height="20" src="https://img.shields.io/badge/Website-nekomimi0128.com-blue?logo=googlechrome&logoColor=white&style=flat" />
+  </a>
+  <a href="https://www.qrz.com/db/JF6GXS">
+    <img height="20" src="https://img.shields.io/badge/Amateur_Radio-JF6GXS-green?style=flat" />
+  </a>
+  <a href="https://x.com/Nekomimichanyo">
+    <img height="20" src="https://img.shields.io/badge/X-@Nekomimichanyo-black?logo=x&logoColor=white&style=flat" />
+  </a>
+</p>
+
 ## Links
 
 - 🌐 Website: https://nekomimi0128.com
