@@ -48,3 +48,11 @@
 ## 🏆 Trophy
 
 ![trophy](https://github-profile-trophy-liard.vercel.app/?username=nekomimi0128&theme=gruvbox)
+
+## 🐍 Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nekomimi0128/nekomimi0128/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nekomimi0128/nekomimi0128/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/nekomimi0128/nekomimi0128/output/github-contribution-grid-snake.svg">
+</picture>
