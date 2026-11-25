@@ -27,7 +27,7 @@
 
 - 🌐 Website: https://nekomimi0128.com
 - 📻 QRZ.com: https://www.qrz.com/db/JF6GXS
-- 𝕏 X: https://x.com/Nekomimichanyo
+- 𝕏 X: https://x.com/34osdev_n3
 
 ## Sites
 
